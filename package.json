@@ -75,7 +75,7 @@
         "object-path": "^0.11.4",
         "openpgp": "^4.6.2",
         "page-metadata-parser": "git+https://github.com/Treora/page-metadata-parser.git#npm-testable",
-        "pdfjs-dist": "^1.8.492",
+        "pdfjs-dist": "^4.2.67",
         "polished": "^3.5.1",
         "postcss-modules-values": "^2.0.0",
         "promise-limit": "^2.5.0",
