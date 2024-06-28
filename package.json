@@ -191,7 +191,7 @@
         "eslint-plugin-standard": "^3.1.0",
         "expect": "^23.6.0",
         "fake-indexeddb": "^2.0.4",
-        "firebase-tools": "^7.3.2",
+        "firebase-tools": "^13.6.0",
         "fork-ts-checker-webpack-plugin": "^4.1.1",
         "geckodriver": "^1.19.1",
         "hard-source-webpack-plugin": "^0.12.0",
